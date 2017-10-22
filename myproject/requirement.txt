@@ -1,0 +1,2 @@
+Requirement:
+django-webpack-loader-0.5.0
